@@ -8,3 +8,4 @@ c:\users\william\documents\visual studio 2013\Projects\ShiftOS Installer and Upd
 c:\users\william\documents\visual studio 2013\Projects\ShiftOS Installer and Updater\ShiftOS Installer and Updater\obj\Debug\ShiftOS Installer and Updater.exe
 c:\users\william\documents\visual studio 2013\Projects\ShiftOS Installer and Updater\ShiftOS Installer and Updater\obj\Debug\ShiftOS Installer and Updater.xml
 c:\users\william\documents\visual studio 2013\Projects\ShiftOS Installer and Updater\ShiftOS Installer and Updater\obj\Debug\ShiftOS Installer and Updater.pdb
+C:\Users\William\documents\visual studio 2013\Projects\ShiftOS Installer and Updater\ShiftOS Installer and Updater\obj\Debug\ShiftOS Installer and Updater.vbprojResolveAssemblyReference.cache

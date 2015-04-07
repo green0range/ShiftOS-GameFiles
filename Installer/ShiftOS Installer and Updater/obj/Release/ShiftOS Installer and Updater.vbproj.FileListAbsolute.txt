@@ -1,0 +1,10 @@
+C:\Users\William\documents\visual studio 2013\Projects\ShiftOS Installer and Updater\ShiftOS Installer and Updater\bin\Release\ShiftOS Installer and Updater.exe.config
+C:\Users\William\documents\visual studio 2013\Projects\ShiftOS Installer and Updater\ShiftOS Installer and Updater\bin\Release\ShiftOS Installer and Updater.exe
+C:\Users\William\documents\visual studio 2013\Projects\ShiftOS Installer and Updater\ShiftOS Installer and Updater\bin\Release\ShiftOS Installer and Updater.pdb
+C:\Users\William\documents\visual studio 2013\Projects\ShiftOS Installer and Updater\ShiftOS Installer and Updater\bin\Release\ShiftOS Installer and Updater.xml
+C:\Users\William\documents\visual studio 2013\Projects\ShiftOS Installer and Updater\ShiftOS Installer and Updater\obj\Release\ShiftOS_Installer_and_Updater.Form1.resources
+C:\Users\William\documents\visual studio 2013\Projects\ShiftOS Installer and Updater\ShiftOS Installer and Updater\obj\Release\ShiftOS_Installer_and_Updater.Resources.resources
+C:\Users\William\documents\visual studio 2013\Projects\ShiftOS Installer and Updater\ShiftOS Installer and Updater\obj\Release\ShiftOS Installer and Updater.vbproj.GenerateResource.Cache
+C:\Users\William\documents\visual studio 2013\Projects\ShiftOS Installer and Updater\ShiftOS Installer and Updater\obj\Release\ShiftOS Installer and Updater.exe
+C:\Users\William\documents\visual studio 2013\Projects\ShiftOS Installer and Updater\ShiftOS Installer and Updater\obj\Release\ShiftOS Installer and Updater.xml
+C:\Users\William\documents\visual studio 2013\Projects\ShiftOS Installer and Updater\ShiftOS Installer and Updater\obj\Release\ShiftOS Installer and Updater.pdb

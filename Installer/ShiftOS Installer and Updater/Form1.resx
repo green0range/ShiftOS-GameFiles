@@ -117,7 +117,53 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <metadata name="openfolder.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>6, 13</value>
+  </metadata>
+  <metadata name="tmrmove.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>118, 13</value>
+  </metadata>
+  <metadata name="trmload.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>219, 13</value>
+  </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pnlclose.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        vAAADrwBlbxySQAAABh0RVh0U29mdHdhcmUAcGFpbnQubmV0IDQuMC41ZYUyZQAABDZJREFUeF7tW79r
+        lEEQzV8cDg6S+xFIegs7Czuxs7CwsBAEC0EEK4sQAhZWAeFICFif+8APPvdm583szJcjXoojJNmdmfd2
+        dnZmdu9ou90eHfLnoMFj4Z8IeAj3X61WzxaLxc3FxcXW+sH48nk+tX2TecDJycmLAuCXFbA2rsjZFHkv
+        pyAjnYDT09PLDNAtGUX+VSYRaQQUw75OCbyWDX0ZRIQJWC6XHz3AsS2Oj48/zWazt4Nb4yd+x9+92wb6
+        I0SECLC4+3q9/j2fz1/1GIl5JYDeM4Ij26KbALZSxahvPaBbc9gWK55w26PPTcD5+flrbUWKodc9hljn
+        YLU1/bDPKsudCGngi6veeRRHx2pbw0OCywOUo2nSVVe2xXXLJivBZgJae778/bNVWfY46G4RYPVIEwGt
+        aF+UvMsGZZWHIJtxOlACWuf8Ple+gP/OwA//Z3kCJUBSNHWk17yAnQKSvZo8lQDp7LXuLasre8YVr/up
+        rXxZ7Q/S6aClzSoBXjY9YLxjGfgC/P0g02N3kwAp8O3L9eF12sqPwYME2CkUT5cS6U0CPCx6V9MznoE/
+        Ozt7I8mz2i8SgGaGwGBqbm8hgUX6Fvi/XrBzTAJXrVckQEp6LAZnjmHgLeluLQO4TATUE1HSZoLTZLFi
+        C7ZZwEMH7K6xUALQwKwn9dbzXtIs4D0yYXeNBfjGMna2gNS99SjtHYv9zNy+R7awDW5UAqzRs8eY1hwG
+        PpJ8MTw7HmAJHJngcYaTMz7UZ2ABnRKARmUm4LEsBh7ZX1Q37NcCISUA3dqoEdJ81k3OAA+9sD9EwBQ3
+        MlojA8YiDc8iHfaHCMgyZJBTwH/R9jxq/WydIQIyPYA1MrJue8YEhj0gKwYw8FN1mMIxIOMUYLX8VODh
+        CeFTQCogPHuUga9reY9sy9hwHoAAYlHUOOpuPY2MXj3aPHcmmFUL9DYysklw1wJ4lhKtBllRozUyMgmQ
+        qsH62Y3YEBFKyHurYQy8tZa36tPGSR3ienyrI7RhjYRakKWWf0jwsE9w/42JACl50JIUC/iMFfXIkO40
+        pKQu3BVmtXzkFPEArsey6D+M1+4Fdh4i1EUKA489GAHRO1e6Pms9o+m+GSrgd8rMMeuRLk4v8GGedfUx
+        vutu0NDI+KfvFgXkmZ96NyhFUnbMZTUyPKCHsdKVGItB9HqcdW7GhBQDfvQYnjGn1WQJvw+AcZY7+Ska
+        GVZiWlvScplLPWAwAu/wWu6/T/CtlbeeQGYCtHhgYdq6mp5xrT3P9v1Yh4uAx/JO0FNsuQgAcyztndob
+        WDzygKd5AKm07kh3N/U9gZTbV4lXV9bp9oAxKWw1YOADvRbvfqkaIgBkePIEEPJffV+g8obD/MZIHSda
+        z2pZCm39f6uq8xyf3cegR8nBfmtMIukgvzfo8ZZ9jg2fAvs0PkP3EwEZLD5mGX8AUKNi/UQabzYAAAAA
+        SUVORK5CYII=
+</value>
+  </data>
+  <data name="Label4.Text" xml:space="preserve">
+    <value>Newer versions of ShiftOS require a number of dependencies, if ticked, the installer will only download the choosen executable without checking for required depenencies. This will likely cause errors with newer versions of the game. It is not recommended.</value>
+  </data>
+  <data name="folder.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADIAAAAqCAYAAADxughHAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADrwAAA68AZW8ckkAAAC7SURBVGhD7dlBDoMwDETRnD7XDmLXqkUt5glLaJCywwPz
+        f3Ye6yHPeEiP9VZkjLGqpxvIR5E556qcHUDnw4rs5TvLsKtVvZKVuW/mqZHKlTw7c2Q9Rc6SVO/HiCKp
+        cmJEkVQ5MaJIqpwYUSRVTowokionRhRJlRMjiqTKiRFFUuXEiCKpcmJEkVQ5MaJIqpwYUSRVTowokion
+        RhRJlfO3kcq+4u6Zn/uRztXZ1W/3Lv6u/v3LfIpAmCRqA9+ovBLWsGrMAAAAAElFTkSuQmCC
+</value>
+  </data>
   <data name="PictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         R0lGODlhgACAAKUAAASu7ITW9MTq/ETC9CS67KTi/OT2/GTO9BS27JTe9NTy/DS+9LTm/FTK9PT6/HTS
@@ -709,22 +755,4 @@
         lX/ux715QoEItDsyA4igAw9AziPZ+oYPdEAD8c3dCn7Ck8YeIAQLGIAVHJBYYVonCAA7
 </value>
   </data>
-  <data name="folder.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAADIAAAAqCAYAAADxughHAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADr8AAA6/ATgFUyQAAAC7SURBVGhD7dlBDoMwDETRnD7XDmLXqkUt5glLaJCywwPz
-        f3Ye6yHPeEiP9VZkjLGqpxvIR5E556qcHUDnw4rs5TvLsKtVvZKVuW/mqZHKlTw7c2Q9Rc6SVO/HiCKp
-        cmJEkVQ5MaJIqpwYUSRVTowokionRhRJlRMjiqTKiRFFUuXEiCKpcmJEkVQ5MaJIqpwYUSRVTowokion
-        RhRJlfO3kcq+4u6Zn/uRztXZ1W/3Lv6u/v3LfIpAmCRqA9+ovBLWsGrMAAAAAElFTkSuQmCC
-</value>
-  </data>
-  <metadata name="openfolder.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>6, 13</value>
-  </metadata>
-  <metadata name="tmrmove.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>118, 13</value>
-  </metadata>
-  <metadata name="trmload.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>219, 13</value>
-  </metadata>
 </root>
